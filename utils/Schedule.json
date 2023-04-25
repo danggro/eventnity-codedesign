@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "img": "schedule-1.png",
+    "date": "February 6th 2023",
+    "clock": "10 PM to 12 PM",
+    "title": "Meet up Freelancer",
+    "desc": "Become a potential and professional freelance"
+  },
+  {
+    "id": "2",
+    "img": "schedule-2.png",
+    "date": "February 17th 2023",
+    "clock": "10 PM to 12 PM",
+    "title": "Metal Band Concert",
+    "desc": "Become a potential and professional freelance"
+  },
+  {
+    "id": "3",
+    "img": "schedule-3.png",
+    "date": "February 28th 2023",
+    "clock": "9 AM to 4 PM",
+    "title": "International Education Exhibition",
+    "desc": "Explore knowledge from the outside world"
+  },
+  {
+    "id": "4",
+    "img": "schedule-4.png",
+    "date": "February 6th 2023",
+    "clock": "0 PM to 12 PM",
+    "title": "Beatbox Battle Festival",
+    "desc": "Become a potential and professional freelance"
+  },
+  {
+    "id": "5",
+    "img": "schedule-5.png",
+    "date": "March 8th 2023",
+    "clock": "8 AM to 10 PM",
+    "title": "Festival Holi Indian",
+    "desc": "Color your life with us, let's join the festival now"
+  },
+  {
+    "id": "6",
+    "img": "schedule-6.png",
+    "date": "March 17th 2023",
+    "clock": "8 PM to 12 PM",
+    "title": "Concert Coldplay Band",
+    "desc": "Become a potential and professional freelance"
+  }
+]

@@ -2,26 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-  color: rgb(var(--foreground-rgb));
+.hero-gdr {
   background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+    252.53deg,
+    rgba(91, 33, 182, 0.5) -0.87%,
+    rgba(179, 33, 182, 0.5) -0.87%,
+    rgba(75, 27, 152, 0.5) 25.15%,
+    rgba(14, 2, 33, 0.245) 97.92%
+  );
+}
+
+.event {
+  background: linear-gradient(180deg, #6d28d9 0%, #e127ff 80%, #ff2976 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.fixed-nav {
+  @apply fixed w-screen top-0 py-5 z-50 bg-white/50 backdrop-blur-sm mt-0;
 }
